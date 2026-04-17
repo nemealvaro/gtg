@@ -18,7 +18,7 @@ async function main() {
     data: {
       name: "El Asador de Malasaña",
       email: "asador@gtg.com",
-      password: passwordHash,
+      password: password123,
       role: Role.EMPRESA,
       restaurant: {
         create: {
